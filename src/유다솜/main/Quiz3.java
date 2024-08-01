@@ -11,7 +11,7 @@ public class Quiz3 {
 				break;
 			}
 		}
-		System.out.println("i:"+i+" sum:"+sum);
+		System.out.println("i:"+i+", sum:"+sum);
 	}
 
 }
